@@ -114,7 +114,7 @@ func main() {
 					break
 				}
 
-				fmt.Printf("- *%s* %s\n", commit.ID().String(), commit.Message)
+				fmt.Printf("#### %s\n%s\n", commit.ID().String(), commit.Message)
 			}
 
 			return nil

@@ -7,13 +7,16 @@ on projects where people require descriptions of commits in PRs too.
 
 ```
 $ git summarize-branch
-<Insert your description here>
-
 ## Commit Summary
 
-- *1213ab*: My Commit Short Description Here
-  Longer Description Goes here
-- *acab12*: My Commit Short Description Here
-  Longer Description Goes here
+#### 1213ab
+My Commit Short Description Here
+
+Longer Description Goes here
+
+#### acab12
+My Commit Short Description Here
+
+Longer Description Goes here
 ```
 
